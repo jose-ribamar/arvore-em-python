@@ -1,5 +1,6 @@
-#WESLEY ALVES RIBEIRO, 20211p2ads0274
+
 #JOSÉ RIBAMAR G. DE SOUSA, 20201p2ads0153
+# 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
 
 from tkinter import *
 
